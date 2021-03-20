@@ -5,14 +5,26 @@
 :heart: Programming | :black_heart: Drawing | :green_heart: Anime
 
 <p>
-Computer Scientist student at Universidade Federal de Minas Gerais - UFMG (Brasil) - I love Data Science and trying to learn about Cyber Security.
+Welcome to my Github page, I am Gabriel Sousa and currently graduating in Computer Science at [bi4 Group Spain](https://www.dcc.ufmg.br/dcc/)
+</p>
+<p>
+:heart: I love Data Science and trying to learn about Cyber Security.
 </p>
 
-- 📚 I'm currently learning Data Science and Data Mining using Python
+- 📚 I'm currently learning Data Science and Data Mining using Python and OOP with C++
 - 🤝 I'm currently looking to collaborate on Data Science, Data Analysis and Data Mining projects
 - ❓ Ask me about anything. I will try to help you as much as I can
 - 🍀 Quote: "The only way to do great work is to love what you do"
 
+### :hammer_and_wrench: Things I am currently working on:
+- Finish my Computer Science graduation
+- Taking online courses about OOP, Python and Data Science
+- Working on a quiz project based on C++
+
+### 🌅 Things I am challenging myself with:
+- Waking up earlier to make good use of the day
+- Coding at least 5 hours a day
+- Invest more time in drawing
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align = "center" src=https://github-readme-stats.vercel.app/api?username=Gabrielms-1&theme=buefy&show_icons=true" />
