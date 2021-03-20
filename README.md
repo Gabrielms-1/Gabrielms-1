@@ -20,7 +20,7 @@
 
 <p>
   <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-  ![Gabrielms-1 Github Status](https://github-readme-stats.vercel.app/api?username=Gabrielms-1&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+
 Welcome to my Github page, I am Gabriel Sousa and currently graduating in Computer Science at <a href="https://www.dcc.ufmg.br/dcc/">DCC at Universidade Federal de Minas Gerais - UFMG (Brasi)</a>
 </p>
 <p>
@@ -43,6 +43,8 @@ Welcome to my Github page, I am Gabriel Sousa and currently graduating in Comput
 - Waking up earlier to make good use of the day
 - Coding at least 5 hours a day
 - Invest more time in drawing
+
+![Gabrielms-1 Github Status](https://github-readme-stats.vercel.app/api?username=Gabrielms-1&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
 ### Works with:
 <p>
