@@ -51,7 +51,7 @@ Welcome to my Github page, I am Gabriel Sousa and currently graduating in Comput
 </p>
 <p>
 And...
-</br>
+
 </br>
 <p><img align ="left" src="https://www.flaticon.com/svg/static/icons/svg/4151/4151387.svg" width=10px> Requests </p>
 <p><img align ="left" src="https://www.flaticon.com/svg/static/icons/svg/4151/4151387.svg" width=10px> BeautifulSoup </p>
