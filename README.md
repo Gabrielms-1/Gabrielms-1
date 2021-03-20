@@ -1,6 +1,6 @@
 [<img alt="LinkedIn | LinkedIn" width="7%" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384889.svg"/>][linkedin]
-**[<img alt="Spotify | Spotify" width="7%" src="https://www.flaticon.com/svg/static/icons/svg/3773/3773639.svg" />][Spotify]
-**[<img alt="Mail-me! | Gmail" width="7%" src="https://image0.flaticon.com/icons/svg/4350/4350052.svg" />][Mail]
+..[<img alt="Spotify | Spotify" width="7%" src="https://www.flaticon.com/svg/static/icons/svg/3773/3773639.svg" />][Spotify]
+..[<img alt="Mail-me! | Gmail" width="7%" src="https://image0.flaticon.com/icons/svg/4350/4350052.svg" />][Mail]
 </br>
 </br>
 
@@ -11,7 +11,7 @@
 Welcome to my Github page, I am Gabriel Sousa and currently graduating in Computer Science at <a href="https://www.dcc.ufmg.br/dcc/">DCC at Universidade Federal de Minas Gerais - UFMG (Brasi)</a>
 </p>
 <p>
-:heart: I love Data Science and trying to learn about Cyber Security.
+### :heart: I love Data Science and trying to learn about Cyber Security.
 </p>
 
 - 📚 I'm currently learning Data Science and Data Mining using Python and OOP with C++
