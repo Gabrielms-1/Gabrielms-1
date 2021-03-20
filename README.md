@@ -44,7 +44,7 @@ Welcome to my Github page, I am Gabriel Sousa and currently graduating in Comput
 - Coding at least 5 hours a day
 - Invest more time in drawing
 
-[![Gabrielms-1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielms-1)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabrielms-1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielms-1&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Works with:
