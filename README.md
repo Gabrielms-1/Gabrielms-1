@@ -1,10 +1,11 @@
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Gabrielms-1)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-mendes-238807127/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabriels.msousa@gmail.com)
+[<img align="left" alt="LinkedIn | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt="Spotify | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
+[<img align="left" alt="Mail-me! | Gmail" height="30px" src="https://pics.freeicons.io/uploads/icons/png/15825618871582882387-512.png" />][Mail]
 
 :heart: Programming | :black_heart: Drawing | :green_heart: Anime
 
 <p>
+  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 Welcome to my Github page, I am Gabriel Sousa and currently graduating in Computer Science at <a href="https://www.dcc.ufmg.br/dcc/">DCC at Universidade Federal de Minas Gerais - UFMG (Brasi)</a>
 </p>
 <p>
@@ -34,3 +35,7 @@ Welcome to my Github page, I am Gabriel Sousa and currently graduating in Comput
 <code><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1200px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
 <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=Gabrielms-1&theme=buefy&show_icons=true" />
 </p>
+
+[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
+[Spotify]: https://open.spotify.com/user/11153360645
+[Mail]: mailto:gabriels.msousa@gmail.com
