@@ -4,9 +4,8 @@
 </br>
 </br>
 
-<p>
 :heart: Programming | :black_heart: Drawing | :green_heart: Anime
-</p>
+
 <p>
   <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 Welcome to my Github page, I am Gabriel Sousa and currently graduating in Computer Science at <a href="https://www.dcc.ufmg.br/dcc/">DCC at Universidade Federal de Minas Gerais - UFMG (Brasi)</a>
