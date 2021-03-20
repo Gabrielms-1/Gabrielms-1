@@ -1,4 +1,9 @@
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Gabrielms-1)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-mendes-238807127/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabriels.msousa@gmail.com)
+
 :heart: Programming | :black_heart: Drawing | :green_heart: Anime
+
 <p>
 Computer Scientist student at Universidade Federal de Minas Gerais - UFMG (Brasil) - I love Data Science and trying to learn about Cyber Security.
 </p>
