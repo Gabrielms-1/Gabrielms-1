@@ -1,6 +1,6 @@
-[<img align="left" alt="LinkedIn | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="Spotify | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
-[<img align="left" alt="Mail-me! | Gmail" height="30px" src="https://pics.freeicons.io/uploads/icons/png/15825618871582882387-512.png" />][Mail]
+[<img align="left" alt="LinkedIn | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384889.svg"/>][linkedin]
+[<img align="left" alt="Spotify | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/3773/3773639.svg" />][Spotify]
+[<img align="left" alt="Mail-me! | Gmail" height="30px" src="https://image0.flaticon.com/icons/svg/4350/4350052.svg" />][Mail]
 
 :heart: Programming | :black_heart: Drawing | :green_heart: Anime
 
