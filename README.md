@@ -70,5 +70,6 @@ And...
 <p><img align ="left" src="https://www.flaticon.com/svg/static/icons/svg/4151/4151387.svg" width=10px> Selenium </p>
 </p>
 </br>
-  [![Projetos em C++](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielms-1&repo=github-readme-stats)](https://github.com/Gabrielms-1/Projetos-Cpp)
+
+[![Projetos em C++](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielms-1&repo=github-readme-stats)](https://github.com/Gabrielms-1/Projetos-Cpp)
 
