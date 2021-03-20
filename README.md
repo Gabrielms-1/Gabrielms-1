@@ -1,10 +1,10 @@
 [<img align="left" alt="LinkedIn | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384889.svg"/>][linkedin]
 [<img align="left" alt="Spotify | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/3773/3773639.svg" />][Spotify]
 [<img align="left" alt="Mail-me! | Gmail" height="30px" src="https://image0.flaticon.com/icons/svg/4350/4350052.svg" />][Mail]
-
-<p>
+</br>
+</br>
 :heart: Programming | :black_heart: Drawing | :green_heart: Anime
-</p>
+
 <p>
   <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 Welcome to my Github page, I am Gabriel Sousa and currently graduating in Computer Science at <a href="https://www.dcc.ufmg.br/dcc/">DCC at Universidade Federal de Minas Gerais - UFMG (Brasi)</a>
