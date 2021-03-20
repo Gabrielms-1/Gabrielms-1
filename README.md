@@ -15,7 +15,7 @@
 <br>
 
 
-:heart: Programming | :black_heart: Drawing | :green_heart: Anime
+:heart: Programming | :black_heart: Drawing | :green_heart: Anime <br>
 <img src="https://i.imgur.com/feTESH5.gif" width="50%">
 
 <p>
