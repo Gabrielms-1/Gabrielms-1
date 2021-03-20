@@ -51,10 +51,11 @@ Welcome to my Github page, I am Gabriel Sousa and currently graduating in Comput
 <code><img height="30px" src="https://camo.githubusercontent.com/bd220e367c7c2a09c42aabed991001b6da031e55eb6e1588a75380beb6395177/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4325323026253230432b2b2d3635396164323f7374796c653d666c6174266c6f676f3d63253242253242266c6f676f436f6c6f723d666666666666"></code>
 </p>
 <p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielms-1)](https://github.com/anuraghazra/github-readme-stats)
+
 And...
 
 </br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielms-1)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align ="left" src="https://www.flaticon.com/svg/static/icons/svg/4151/4151387.svg" width=10px> Requests </p>
 <p><img align ="left" src="https://www.flaticon.com/svg/static/icons/svg/4151/4151387.svg" width=10px> BeautifulSoup </p>
 <p><img align ="left" src="https://www.flaticon.com/svg/static/icons/svg/4151/4151387.svg" width=10px> RE </p> 
