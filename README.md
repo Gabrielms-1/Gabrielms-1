@@ -49,6 +49,7 @@ Welcome to my Github page, I am Gabriel Sousa and currently graduating in Comput
 <code><img height="30px" src="https://camo.githubusercontent.com/a595b7ae653b19493f79c722ee8c39517c1e7f36364d2aabff6c8c967bdb44c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"></code>
 <code><img height="30px" src="https://camo.githubusercontent.com/bd220e367c7c2a09c42aabed991001b6da031e55eb6e1588a75380beb6395177/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4325323026253230432b2b2d3635396164323f7374796c653d666c6174266c6f676f3d63253242253242266c6f676f436f6c6f723d666666666666"></code>
 </p>
+And...
 <p><img align ="left" src="https://www.flaticon.com/svg/static/icons/svg/4151/4151387.svg" width=10px> Requests </p>
 <p><img align ="left" src="https://www.flaticon.com/svg/static/icons/svg/4151/4151387.svg" width=10px> BeautifulSoup </p>
 <p><img align ="left" src="https://www.flaticon.com/svg/static/icons/svg/4151/4151387.svg" width=10px> RE </p> 
