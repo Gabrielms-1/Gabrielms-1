@@ -16,7 +16,7 @@
 
 
 :heart: Programming | :black_heart: Drawing | :green_heart: Anime
-<img src="https://imgur.com/feTESH5" width="50%">
+<img src="https://i.imgur.com/feTESH5.gif" width="50%">
 
 <p>
   <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
