@@ -54,7 +54,7 @@ Welcome to my Github page, I am Gabriel Sousa and currently graduating in Comput
 And...
 
 </br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielms-1&repo=Projetos-Cpp&show_onwner=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielms-1&repo=Projetos-Cpp)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align ="left" src="https://www.flaticon.com/svg/static/icons/svg/4151/4151387.svg" width=10px> Requests </p>
 <p><img align ="left" src="https://www.flaticon.com/svg/static/icons/svg/4151/4151387.svg" width=10px> BeautifulSoup </p>
 <p><img align ="left" src="https://www.flaticon.com/svg/static/icons/svg/4151/4151387.svg" width=10px> RE </p> 
