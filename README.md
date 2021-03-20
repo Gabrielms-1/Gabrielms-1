@@ -26,15 +26,11 @@ Welcome to my Github page, I am Gabriel Sousa and currently graduating in Comput
 - Coding at least 5 hours a day
 - Invest more time in drawing
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align = "center" src=https://github-readme-stats.vercel.app/api?username=Gabrielms-1&theme=buefy&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielms-1&theme=buefy&layout=compact&show_icons" />
-</a>
-
-Programming Language and Tools:
+### Programming Language and Tools:
 <p>
+  <img width=50% align="right" src=https://github-readme-stats.vercel.app/api?username=Gabrielms-1&theme=buefy&show_icons=true" />
+  <img width=50% align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielms-1&theme=buefy&layout=compact&show_icons" />
+
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"></code>
 <code><img width="10%" src="https://1.bp.blogspot.com/-RV-HrvfYVGg/XThtxkUd0JI/AAAAAAAAVuA/lbH0GXvHbVAS_QhWnB3Cr6C8Fr5Q795LwCLcBGAs/s1600/c%252B%252B.jpg"></code>
 <code><img width="10%" src="https://requests.readthedocs.io/pt_BR/latest/_static/requests-sidebar.png"></code>
