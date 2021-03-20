@@ -1,11 +1,8 @@
 :heart: Programming | :black_heart: Drawing | :green_heart: Anime
 Computer Scientist student at Universidade Federal de Minas Gerais - UFMG (Brasil) - I love Data Science and trying to learn about Cyber Security.
-<p>
--📚 I'm currently learning Data Science and Data Mining using Python
-</p>
-<p>
+
+- 📚 I'm currently learning Data Science and Data Mining using Python
 -🤝 I'm currently looking to collaborate on Data Science, Data Analysis and Data Mining projects
-</p>
 <p>
 -❓ Ask me about anything. I will try to help you as much as I can
 </p>
