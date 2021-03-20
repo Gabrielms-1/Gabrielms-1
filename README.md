@@ -1,6 +1,21 @@
-[<img alt="LinkedIn" margin= 222px width="7%" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384889.svg"/>][linkedin]
-..[<img alt="Spotify" width="7%" src="https://www.flaticon.com/svg/static/icons/svg/3773/3773639.svg" />][Spotify]
-..[<img alt="Mail-me!" width="7%" src="https://image0.flaticon.com/icons/svg/4350/4350052.svg" />][Mail]
+<div>
+  <a href = "https://www.linkedin.com/in/gabriel-mendes-238807127/">
+    <img alt="LinkedIn" width="7%" border="25" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384889.svg"/> 
+  </a>
+</div>
+
+<div>
+  <a href = "https://open.spotify.com/user/gabriels.msousa?si=gnVVVZmcT46DTPFQaaMzcw">
+    <img alt="Spotify" width="7%" border="25" src="https://www.flaticon.com/svg/static/icons/svg/3773/3773639.svg"/> 
+  </a>
+</div>
+
+<div>
+  <a href = "mailto:gabriels.msousa@gmail.com">
+    <img alt="Mail-me!" width="7%" border="25" src="https://image0.flaticon.com/icons/svg/4350/4350052.svg"/> 
+  </a>
+</div>
+
 </br>
 </br>
 
