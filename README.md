@@ -1,21 +1,21 @@
 :heart: Programming | :black_heart: Drawing | :green_heart: Anime
-
 Computer Scientist student at Universidade Federal de Minas Gerais - UFMG (Brasil) - I love Data Science and trying to learn about Cyber Security.
-
+<p>
 -📚 I'm currently learning Data Science and Data Mining using Python
+</p>
+<p>
 -🤝 I'm currently looking to collaborate on Data Science, Data Analysis and Data Mining projects
+</p>
+<p>
 -❓ Ask me about anything. I will try to help you as much as I can
+</p>
+<p>
 -🍀 Quote: "The only way to do great work is to love what you do"
-
+</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align = "center" src=https://github-readme-stats.vercel.app/api?username=Gabrielms-1&theme=buefy&show_icons=true" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align = "center " src="https://github-readme-stats.vercel.app/api/pin/?username=Gabrielms-1&repo=Projetos-Cpp&theme=buefy&show_owner=1&show_icons" />
-</a>
-
+@@ -13,3 +24,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielms-1&theme=buefy&layout=compact&show_icons" />
 </a>
