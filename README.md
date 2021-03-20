@@ -11,7 +11,7 @@ Computer Scientist student at Universidade Federal de Minas Gerais - UFMG (Brasi
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align = "center" src=https://github-readme-stats.vercel.app/api?username=Gabrielms-1&theme=buefy&show_icons=true" />
-@@ -13,3 +24,11 @@
+</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielms-1&theme=buefy&layout=compact&show_icons" />
 </a>
