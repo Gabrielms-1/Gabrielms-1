@@ -2,13 +2,10 @@
 Computer Scientist student at Universidade Federal de Minas Gerais - UFMG (Brasil) - I love Data Science and trying to learn about Cyber Security.
 
 - 📚 I'm currently learning Data Science and Data Mining using Python
--🤝 I'm currently looking to collaborate on Data Science, Data Analysis and Data Mining projects
-<p>
--❓ Ask me about anything. I will try to help you as much as I can
-</p>
-<p>
--🍀 Quote: "The only way to do great work is to love what you do"
-</p>
+- 🤝 I'm currently looking to collaborate on Data Science, Data Analysis and Data Mining projects
+- ❓ Ask me about anything. I will try to help you as much as I can
+- 🍀 Quote: "The only way to do great work is to love what you do"
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align = "center" src=https://github-readme-stats.vercel.app/api?username=Gabrielms-1&theme=buefy&show_icons=true" />
