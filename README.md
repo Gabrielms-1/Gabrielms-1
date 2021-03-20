@@ -52,8 +52,8 @@ Welcome to my Github page, I am Gabriel Sousa and currently graduating in Comput
 </p>
 <p>
 
-<div align="right">
-  ![Gabrielms-1 Github Status](https://github-readme-stats.vercel.app/api?username=Gabrielms-1&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+<div align = "right">
+![Gabrielms-1 Github Status](https://github-readme-stats.vercel.app/api?username=Gabrielms-1&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 </div>
 And...
 
