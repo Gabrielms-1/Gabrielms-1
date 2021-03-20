@@ -1,10 +1,9 @@
 [<img align="left" alt="LinkedIn | LinkedIn" width="7%" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384889.svg"/>][linkedin]
-//
 [<img align="left" alt="Spotify | Spotify" width="7%" src="https://www.flaticon.com/svg/static/icons/svg/3773/3773639.svg" />][Spotify]
-//
 [<img align="left" alt="Mail-me! | Gmail" width="7%" src="https://image0.flaticon.com/icons/svg/4350/4350052.svg" />][Mail]
 </br>
 </br>
+
 :heart: Programming | :black_heart: Drawing | :green_heart: Anime
 
 <p>
