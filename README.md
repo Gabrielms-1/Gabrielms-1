@@ -34,7 +34,7 @@ Welcome to my Github page, I am Gabriel Sousa and currently graduating in Comput
 
 ### :hammer_and_wrench: Things I am currently working on:
 - Finish my Computer Science graduation
-- Taking online courses about OOP, Python and Data Science
+- Taking online classes about OOP, Python and Data Science
 - Working on a quiz project based on C++
 
 ### 🌅 Things I am challenging myself with:
