@@ -5,7 +5,7 @@
 :heart: Programming | :black_heart: Drawing | :green_heart: Anime
 
 <p>
-Welcome to my Github page, I am Gabriel Sousa and currently graduating in Computer Science at [bi4 Group Spain](https://www.dcc.ufmg.br/dcc/)
+Welcome to my Github page, I am Gabriel Sousa and currently graduating in Computer Science at [bi4 Group Spain](https://github.com/bi4group)
 </p>
 <p>
 :heart: I love Data Science and trying to learn about Cyber Security.
