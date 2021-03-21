@@ -1,5 +1,5 @@
 
-  <a href = "https://www.linkedin.com/in/gabriel-mendes-238807127/">
+  <a href = "https://www.linkedin.com/in/msgabriel/">
     <img alt="LinkedIn" width="7%" border="120" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384889.svg"/> 
   </a>
 &emsp;&emsp;
