@@ -73,5 +73,5 @@ And...
 </p>
 </br>
 
-[![C++ Projects](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielms-1&repo=Projetos-Cpp&theme=vue)](https://github.com/Gabrielms-1/Projetos-Cpp)
+[![C++ Projects](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielms-1&repo=Cpp-Projects&theme=vue)](https://github.com/Gabrielms-1/Cpp-Projects)
 [![Python Projects](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielms-1&repo=Python-Codes&theme=vue)](https://github.com/Gabrielms-1/Python-Codes)
