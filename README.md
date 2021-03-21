@@ -49,7 +49,7 @@ Welcome to my Github page, I am Gabriel Sousa and currently graduating in Comput
 [![Gabrielms-1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielms-1&hide=issues,contribs&show_icons=true&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Works with:
+### Working on:
 <p>
 <code><img height="30px" src="https://camo.githubusercontent.com/2fad14d202b24de54ef28fb28fc41b3fe661fc22ca72ab6045ed280d277bb536/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"></code>
 <code><img height="30px" src="https://camo.githubusercontent.com/106cfcc1bea1938e98f03e1291b18f30091ec44513da900b54f988416824d3b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"></code>
