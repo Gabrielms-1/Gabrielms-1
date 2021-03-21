@@ -24,7 +24,9 @@
 Welcome to my Github page, I am Gabriel Sousa and currently graduating in Computer Science at <a href="https://www.dcc.ufmg.br/dcc/">DCC at Universidade Federal de Minas Gerais - UFMG (Brasi)</a>
 </p>
 <p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielms-1&theme=vue&layout=compact&card_height=520)](https://github.com/Gabrielms-1/)  
+
 ### ❤️ I love Data Science and trying to learn about Cyber Security.
 
 </p>
