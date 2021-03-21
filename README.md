@@ -72,4 +72,4 @@ And...
 </br>
 
 [![Projetos em C++](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielms-1&repo=Projetos-Cpp&theme=vue)](https://github.com/Gabrielms-1/Projetos-Cpp)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielms-1&theme=vue&layout=compact&card_height=50)](https://github.com/Gabrielms-1/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielms-1&theme=vue&layout=compact&card_height=520)](https://github.com/Gabrielms-1/)
