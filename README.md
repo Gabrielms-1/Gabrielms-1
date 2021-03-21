@@ -71,5 +71,5 @@ And...
 </p>
 </br>
 
-[![Projetos em C++](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielms-1&repo=Projetos-Cpp&theme=vue&width="50")](https://github.com/Gabrielms-1/Projetos-Cpp)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielms-1&theme=vue&width="50")](https://github.com/Gabrielms-1/)
+[![Projetos em C++](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielms-1&repo=Projetos-Cpp&theme=vue&height="50")](https://github.com/Gabrielms-1/Projetos-Cpp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielms-1&theme=vue&height="50")](https://github.com/Gabrielms-1/)
