@@ -63,14 +63,16 @@ Welcome to my Github page, I am Gabriel Sousa and currently graduating in Comput
 
 <hr>
 
-And...
+And learning to...
 
 </br>
 <p><img align ="left" src="https://www.flaticon.com/svg/static/icons/svg/4151/4151387.svg" width=10px> Requests </p>
 <p><img align ="left" src="https://www.flaticon.com/svg/static/icons/svg/4151/4151387.svg" width=10px> BeautifulSoup </p>
-<p><img align ="left" src="https://www.flaticon.com/svg/static/icons/svg/4151/4151387.svg" width=10px> RE </p> 
+<p><img align ="left" src="https://www.flaticon.com/svg/static/icons/svg/4151/4151387.svg" width=10px> Regular Expression </p> 
 <p><img align ="left" src="https://www.flaticon.com/svg/static/icons/svg/4151/4151387.svg" width=10px> Pandas </p>
 <p><img align ="left" src="https://www.flaticon.com/svg/static/icons/svg/4151/4151387.svg" width=10px> Selenium </p>
+<p><img align ="left" src="https://www.flaticon.com/svg/static/icons/svg/4151/4151387.svg" width=10px> Numpy </p>
+<p><img align ="left" src="https://www.flaticon.com/svg/static/icons/svg/4151/4151387.svg" width=10px> Matplotlib </p>
 </p>
 </br>
 
