@@ -28,19 +28,19 @@ Welcome to my Github page, I am Gabriel Sousa and currently graduating in Comput
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielms-1&theme=vue&layout=compact&card_height=520)](https://github.com/Gabrielms-1/)  
 
-### ❤️ I love Data Science and trying to learn about Cyber Security.
+### ❤️ I love Data Science
 
 </p>
 
-- 📚 I'm currently learning OOP with C++, Data Science and Data Mining using Python
-- 🤝 I'm currently looking to collaborate on Data Science, Data Analysis and Data Mining projects
+- 📚 I'm currently learning Data Analysis and Data Visualization using Python
+- 🤝 I'm currently looking to collaborate on Data Science projects
 - ❓ Ask me about anything. I will try to help you as much as I can
 - 🍀 Quote: "The only way to do great work is to love what you do"
 
 ### :hammer_and_wrench: Things I am currently working on:
 - Finish my Computer Science graduation
-- Taking online classes about OOP, Python and Data Science
-- Working on a quiz project based on C++
+- Taking online classes about Python and Data Science
+- Working on a Data Visualization project about NYC Uber rides history
 
 ### 🌅 Things I am challenging myself with:
 - Waking up earlier to make good use of the day
