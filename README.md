@@ -1,7 +1,17 @@
+<div align ="right">
+  Veja essa página também em português!
 
-  <a href = "https://www.linkedin.com/in/msgabriel/">
-    <img alt="LinkedIn" width="7%" border="120" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384889.svg"/> 
+  &emsp;
+  <a href = "https://github.com/Gabrielms-1/Gabrielms-1/blob/main/README-ptbr.md">
+    <img alt="Veja essa página em Português!" width="7%" border="120" src="https://image.flaticon.com/icons/png/512/206/206597.png"/> 
   </a>
+</div>
+
+&emsp;&emsp;
+
+<a href = "https://www.linkedin.com/in/msgabriel/">
+    <img alt="LinkedIn" width="7%" border="120" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384889.svg"/> 
+</a>
 &emsp;&emsp;
   <a href = "https://open.spotify.com/user/gabriels.msousa?si=gnVVVZmcT46DTPFQaaMzcw">
     <img alt="Spotify" width="7%" border="120" src="https://www.flaticon.com/svg/static/icons/svg/3773/3773639.svg"/> 
