@@ -1,10 +1,8 @@
 <div align ="right">
-  Veja essa página também em português!
-
-	&emsp;
-	<a href = "https://github.com/Gabrielms-1/Gabrielms-1/blob/main/README.md">
-    <img alt="See this page on US English!" width="7%" border="120" src="https://image.flaticon.com/icons/png/512/940/940207.png"/> 
-	</a>
+		<a href = "https://github.com/Gabrielms-1/Gabrielms-1/blob/main/README.md">
+    	See this page on US English!
+			<p><img alt="See this page on US English!" width="7%" border="120" src="https://image.flaticon.com/icons/png/512/940/940207.png"/> 
+		</a>
 </div>
 
 &emsp;&emsp;
