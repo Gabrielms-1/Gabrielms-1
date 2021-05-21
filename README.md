@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Gabrielms-1)
+
 <div align="right">
   
   <a href="https://github.com/Gabrielms-1/Gabrielms-1/blob/main/README-ptbr.md">
@@ -22,12 +24,11 @@
   </a>
 &emsp;&emsp;
 
-![](https://komarev.com/ghpvc/?username=Gabrielms-1)
 <br>
 
 
 :heart: Programming | :black_heart: Data | :green_heart: Drawing <br>
-<img src="https://i.imgur.com/feTESH5.gif" width="35%">
+
 
 <p>
   <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
