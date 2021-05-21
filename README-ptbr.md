@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Gabrielms-1)
+
 <div align ="right">
 		<a href = "https://github.com/Gabrielms-1/Gabrielms-1/blob/main/README.md">
     	See this page on US English!
@@ -20,12 +22,10 @@
   </a>
 &emsp;&emsp;
 
-![](https://komarev.com/ghpvc/?username=Gabrielms-1)
 <br>
 
 
 :heart: Programação | :black_heart: Dados | :green_heart: Desenho <br>
-<img src="https://i.imgur.com/feTESH5.gif" width="35%">
 
 <p>
   <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
