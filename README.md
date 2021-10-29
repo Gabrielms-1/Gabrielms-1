@@ -12,18 +12,17 @@
 &emsp;&emsp;
 
 <a href = "https://www.linkedin.com/in/msgabriel/">
-    <img alt="LinkedIn" width="7%" border="120" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384889.svg"/> 
+    <img alt="LinkedIn" width="7%" border="120" src="https://raw.githubusercontent.com/Gabrielms-1/utilities/c618b7ae25f196ddb6c8f7e008fb3856ab20697a/9310175861530099327.svg"/> 
 </a>
 &emsp;&emsp;
-  <a href = "https://open.spotify.com/user/gabriels.msousa?si=gnVVVZmcT46DTPFQaaMzcw">
-    <img alt="Spotify" width="7%" border="120" src="https://www.flaticon.com/svg/static/icons/svg/3773/3773639.svg"/> 
-  </a>
-&emsp;&emsp;
   <a href = "mailto:gabriels.msousa@gmail.com">
-    <img alt="Mail-me!" width="7%" border="120" src="https://image0.flaticon.com/icons/svg/4350/4350052.svg"/> 
+    <img alt="Mail-me!" width="7%" border="120" src="https://raw.githubusercontent.com/Gabrielms-1/utilities/main/712014921547642714.svg"/> 
   </a>
 &emsp;&emsp;
 
+<br>
+<br>
+<br>
 <br>
 
 
