@@ -3,7 +3,6 @@
 <div align="right">
   
   <a href="https://github.com/Gabrielms-1/Gabrielms-1/blob/main/README-ptbr.md">
-    <span>Veja essa página também em português!</span>
     <p>
     <img alt="Veja essa página em Português!" width="7%" border="120" src="https://image.flaticon.com/icons/png/512/206/206597.png"/> 
   </a>
