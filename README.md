@@ -1,57 +1,56 @@
 ![](https://komarev.com/ghpvc/?username=Gabrielms-1)
 
-# Bem-vindo ao meu GitHub! 👋
+# Welcome to my GitHub! 👋
 
-## Sobre Mim
+## About Me
 
-Olá! Sou um engenheiro full stack júnior com mais de três anos de experiência na área de agronomia computacional. 
-Iniciei minha carreira como estagiário. Atualmente trabalho como engenheiro full stack nessa mesma empresa. 
-Minha jornada profissional tem sido impulsionada pelo desejo de usar tecnologia para simplificar a vida das pessoas e resolver problemas do mundo real.
+Hello! I am a junior full stack engineer with over three years of experience in computational agronomy. I started my career as an intern and currently work as a full stack engineer at the same company. My professional journey has been driven by the desire to use technology to simplify people's lives and solve real-world problems.
 
-## Minhas Habilidades
+## My Skills
 
-### Linguagens e Tecnologias
+### Languages and Technologies
 
-- **Python**: Experiência sólida em desenvolvimento de software e processamento de imagens.
-- **Engenharia de Software**: Boas práticas de desenvolvimento e manutenção de código.
-- **Visão Computacional**: Conhecimentos médios em técnicas de visão computacional.
-- **Machine Learning**: Aplicações práticas e desenvolvimento de modelos.
-- **Dados**: Análise e processamento de dados.
-- **AWS**: Conhecimentos básicos, atualmente estudando para certificação em Machine Learning.
+- **Python**: Solid experience in software development and image processing.
+- **Software Engineering**: Best practices in code development and maintenance.
+- **Computer Vision**: Intermediate knowledge in computer vision techniques.
+- **Machine Learning**: Practical applications and model development.
+- **Data**: Data analysis and processing.
+- **AWS**: Basic knowledge, currently studying for Machine Learning certification.
 
-### Bibliotecas Python
+### Python Libraries
 
-- **OpenCV (cv2)**: Processamento de imagens e visão computacional.
-- **NumPy**: Computação numérica eficiente.
-- **Pandas**: Manipulação e análise de dados.
-- **Matplotlib**: Visualização de dados.
-- **Scikit-Learn**: Ferramentas de machine learning.
-- **TensorFlow**: Desenvolvimento de modelos de machine learning e deep learning.
+- **OpenCV (cv2)**: Image processing and computer vision.
+- **NumPy**: Efficient numerical computing.
+- **Pandas**: Data manipulation and analysis.
+- **Matplotlib**: Data visualization.
+- **Scikit-Learn**: Machine learning tools.
+- **TensorFlow**: Development of machine learning and deep learning models.
 
-### Projetos Recentes
+### Recent Projects
 
-- **Integração Global de Plataformas**: Implementação de serviços e integração de uma plataforma global, desenvolvendo habilidades em comunicação em inglês e processamento de imagens.
-- **Pipeline MLOps**: Desenvolvimento de pipelines de redes neurais de classificação e detecção usando SageMaker, S3 e ECR.
-- **Projeto de Homografia**: Utilização de processamento de imagens e homografia para mapear pontos correspondentes em imagens distintas.
-- **Segmentação de Nuvens**: Aplicação de técnicas de processamento de imagens para segmentar nuvens em imagens de satélite.
+- **Global Platform Integration**: Implementation of services and integration of a global platform, developing skills in English communication and image processing.
+- **MLOps Pipeline**: Development of pipelines for classification and detection neural networks using SageMaker, S3, and ECR.
+- **Homography Project**: Utilization of image processing and homography to map corresponding points in different images.
+- **Cloud Segmentation**: Application of image processing techniques to segment clouds in satellite images.
 
-## Objetivos
+## Goals
 
-### Profissionais
+### Professional
 
-- **Certificação AWS**: Objetivo de obter a certificação em Machine Learning.
-- **Carreira Internacional**: Melhoria contínua do inglês e desenvolvimento de um plano de carreira internacional.
-- **Compartilhamento de Conhecimento**: Interesse em compartilhar o conhecimento adquirido com a equipe.
+- **AWS Certification**: Aim to obtain Machine Learning certification.
+- **International Career**: Continuous improvement of English and development of an international career plan.
+- **Knowledge Sharing**: Interest in sharing acquired knowledge with the team.
 
-## Tecnologias e Ferramentas Utilizadas
+## Technologies and Tools Used
 
-- **Confluence**: Plataforma para documentação.
-- **Ferramentas de Desenvolvimento**: Conhecimento avançado em diversas ferramentas e SDKs utilizados no desenvolvimento de software.
+- **Confluence**: Documentation platform.
+- **Development Tools**: Advanced knowledge of various tools and SDKs used in software development.
 
-## Contato
+## Contact
 
 - **LinkedIn**: [linkedin.com/msgabriel](https://www.linkedin.com/in/msgabriel)
 - **Email**: gabriels.msousa@gmail.com
 
 ---
 
+Feel free to explore my repositories and projects. I am always open to new opportunities and collaborations. Let's connect and build something amazing together! 🚀
