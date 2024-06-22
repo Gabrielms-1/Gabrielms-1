@@ -50,7 +50,7 @@ Minha jornada profissional tem sido impulsionada pelo desejo de usar tecnologia 
 
 ## Contato
 
-- **LinkedIn**: [https://www.linkedin.com/in/msgabriel/]([#](https://www.linkedin.com/in/msgabriel/))
+- **LinkedIn**: [linkedin.com/msgabriel](https://www.linkedin.com/in/msgabriel)
 - **Email**: gabriels.msousa@gmail.com
 
 ---
