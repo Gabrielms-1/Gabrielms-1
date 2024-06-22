@@ -4,7 +4,9 @@
 
 ## Sobre Mim
 
-Olá! Sou um engenheiro full stack júnior com mais de três anos de experiência na área de agronomia computacional. Iniciei minha carreira como estagiário e, atualmente, trabalho como engenheiro full stack na mesma empresa. Minha jornada profissional tem sido impulsionada pelo desejo de usar tecnologia para simplificar a vida e resolver problemas reais.
+Olá! Sou um engenheiro full stack júnior com mais de três anos de experiência na área de agronomia computacional. 
+Iniciei minha carreira como estagiário. Atualmente trabalho como engenheiro full stack nessa mesma empresa. 
+Minha jornada profissional tem sido impulsionada pelo desejo de usar tecnologia para simplificar a vida das pessoas e resolver problemas do mundo real.
 
 ## Minhas Habilidades
 
@@ -48,8 +50,8 @@ Olá! Sou um engenheiro full stack júnior com mais de três anos de experiênci
 
 ## Contato
 
-- **LinkedIn**: [Seu LinkedIn](#)
-- **Email**: seu.email@dominio.com
+- **LinkedIn**: [https://www.linkedin.com/in/msgabriel/](#)
+- **Email**: gabriels.msousa@gmail.com
 
 ---
 
