@@ -4,55 +4,65 @@
 
 ## About Me
 
-Hello! I am a junior full stack engineer with over four years of experience in computational agronomy. I started my career as an intern and currently work as a full stack engineer at the same company. My professional journey has been driven by the desire to unleash the power of technology to simplify people's lives and solve real-world problems.
+Hello! I'm a **Computer Vision Engineer** with 5 years of experience in digital agriculture. I started as an intern at a global agtech leader and grew into a specialized CV role on an international team, working 100% remotely from Brazil. My journey has been driven by the desire to use technology to solve real-world problems, and I've been self-taught every step of the way, from my first line of Python to fine-tuning vision-language models.
 
-In recent years, I’ve honed my skills in deep learning and computer vision, exploring convolutional neural networks (CNNs), transfer learning, and image processing for various projects. I’ve also delved into MLOps practices, orchestrating pipelines with Amazon SageMaker, handling data versioning, and applying experiment tracking. My focus is to blend a solid theoretical background with hands-on development to deliver impactful AI-driven solutions.
+My work sits at the intersection of **classical computer vision** and **deep learning**. I build solutions ranging from color-space and luminosity-based image processing (no ML required) to CNNs, Vision Transformers, zero-shot detectors, and VLMs fine-tuned with LoRA. I also take models to production, building MLOps pipelines on Amazon SageMaker and deploying CNN inference on mobile devices.
 
-Currently, I'm studying Transformers (Transformers) and LLMs (Large Language Models) and their applications in computer vision.
+Currently, I'm focused on **Vision-Language Models (VLMs)** and **parameter-efficient fine-tuning (LoRA/QLoRA)** for agricultural applications, and I'm the go-to reference for transformers and LoRA on my team.
 
 ## My Skills
 
 ### Languages and Technologies
 
-- **Python**: Solid four years of experience in software development and image processing.
-- **Software Engineering**: Best practices in code development, CI/CD, testing, packaging and maintenance.
-- **Computer Vision / Deep Learning**: Intermediate knowledge of CNNs, data augmentation, transfer learning, and key metrics (F1, IoU, mAP, etc.).
-- **Transformers**: Intermediate knowledge of Transformers, LLMs, and their applications in natural language processing. Have used the HuggingFace Transformers library to build and train models like OwnV2, SAM2, CLIP, and Visual Transformer.
-- **Machine Learning**: Practical experience building and deploying ML models.
-- **MLOps**: Experience using SageMaker, pipelines, and experiment tracking (TensorBoard, MLflow).
-- **AWS**: Working knowledge (S3, ECR, and SageMaker); pursuing more advanced certifications.
+- **Python:** 5 years of daily use in software development, image processing, and ML research.
+- **C/C++:** Intermediate, used in performance-oriented and academic projects.
+- **Software Engineering:** Best practices in code development, CI/CD, testing, Python packaging, and maintenance.
+- **Computer Vision:** Object detection, semantic segmentation, classification, satellite imagery processing, and classical CV (color spaces, luminosity, mathematical approaches to segmentation).
+- **Deep Learning:** CNNs (ResNet, MobileNet, UNet), data augmentation, transfer learning, and evaluation metrics (F1, IoU, mAP, etc.).
+- **Transformers & VLMs:** Hands-on experience with Vision Transformers, CLIP, OWLv2, SAM2, and PaliGemma 2 using the HuggingFace Transformers and PEFT libraries.
+- **Fine-tuning:** LoRA, QLoRA (4-bit), and adapter composition for detection tasks.
+- **Generative Models:** SDXL with LoRA for image generation.
+- **Zero-shot & Auto-labeling:** Building large-scale datasets with zero-shot models and metadata mining.
+- **Edge AI:** CNN inference on mobile devices (TFLite).
+- **MLOps:** SageMaker pipelines, Docker, experiment tracking (Weights & Biases, TensorBoard, MLflow).
+- **AWS:** S3, EC2, SageMaker, ECR, IAM, and DynamoDB.
+- **Cloud GPUs:** Training on RunPod (NVIDIA L40S).
 
 ### Python Libraries
 
-- **OpenCV (cv2)**: Image processing, homography, segmentation, and computer vision.
-- **NumPy**: Efficient numerical computing, data manipulation, and analysis.
-- **Matplotlib**: Data visualization.
-- **Scikit-Learn**: Machine learning tools.
-- **PyTorch**: Building and training neural networks.
+- **PyTorch:** Building, training, and fine-tuning neural networks.
+- **HuggingFace Transformers & PEFT:** Vision Transformers, VLMs, and LoRA fine-tuning.
+- **OpenCV (cv2):** Image processing, homography, segmentation, and classical computer vision.
+- **Albumentations:** Data augmentation pipelines.
+- **NumPy:** Efficient numerical computing and array manipulation.
+- **Pandas:** Data manipulation and analysis.
+- **Matplotlib:** Data visualization.
+- **TorchMetrics & Scikit-Learn:** Model evaluation and ML tools.
 
-### Recent Projects
+## Recent Projects
 
-- **Global Platform Integration**: Implementation of services and integration of a global platform, developing skills in English communication and image processing with global stakeholders.
-- **MLOps Pipeline**: Development of pipelines for classification and object detection neural networks using SageMaker, S3, and ECR.
-- **Homography Project**: Utilization of image processing and homography to map corresponding points in different images to auto label images from different sources.
-- **Cloud Segmentation**: Application of image processing techniques to segment clouds in satellite images.
-- **Auto Label**: Application of software engineering to mine data from different sources and auto classify images to create a classification dataset. After that, used OwnV2 to auto detect objects in images and create a detection dataset with a zero-shot approach.
-- **Vision Transformer**: Development of a visual transformer pipeline in Sagemaker using the HuggingFace Transformers library to classify images.
-- **Bounding Box Generation**: Used OwnV2 to generate bounding boxes in datasets where I knew only the image content with 98% accuracy.
+- **VLM Fine-tuning for Pest Detection:** Fine-tuned PaliGemma 2 (3B) with QLoRA to detect agricultural caterpillar species, raising F1 from a 23–51% baseline to 90.2%. Built the full pipeline: data ingestion, annotation conversion, frozen test sets, training, and evaluation.
+- **Massive Dataset Creation (1M+ images):** Built a large-scale image dataset using zero-shot models and metadata from idle data, saving over R$500k compared to outsourcing and enabling new ML models globally.
+- **Global Image Dataset Platform:** Managed a global platform for CV data used by 200+ researchers and engineers, centralizing and standardizing image datasets.
+- **SageMaker Pipeline Templates:** Created pipeline templates for CV models that reduced deployment time by 70% and became the team standard.
+- **Cloud Removal in Satellite Imagery:** Developed a classical CV algorithm based on color segmentation to remove clouds from satellite images, increasing satellite model confidence by 90%.
+- **Mobile CV Inference:** Worked on embedded CNN inference for a root-measurement mobile app, investigating cross-platform (iOS vs. Android) consistency.
+- **Auto Label with OWLv2:** Mined data from multiple sources to auto-classify images, then used OWLv2 in a zero-shot approach to generate bounding boxes, reaching 98% accuracy.
+- **Homography Project:** Used image processing and homography to map corresponding points across images from different sources for automatic labeling.
+- **🏆 Internal Hackathon – 1st Place:** Crop vs. weed segmentation with ResNet, competing against a global team of Computational Agronomy engineers.
 
 ## Goals
 
 ### Professional
 
-- **AWS Certification**: Aim to obtain Machine Learning certification.
-- **International Career**: Development of an international career plan.
-- **Knowledge Sharing**: Interest in sharing acquired knowledge with the team.
-- **Continuous Learning**: Pursue knowledge in new technologies and tools.
-- **Agile Methodologies**: Interest in Agile methodologies and their application in software development.
-- **Problem Solving**: Interest in problem solving and the application of software engineering to solve real-world problems.
-- **Fast Learning**: Fast and self-taught learner.
-- **Multidisciplinary**: Interest in interdisciplinary projects and the application of software engineering to solve real-world problems.
-
+- **AWS Certification:** Obtain the AWS Machine Learning certification.
+- **Computer Science Degree:** Complete my degree as a foundation for a master's in CV/AI.
+- **Technical Leadership:** Grow into a formal tech lead role in computer vision.
+- **International Career:** Work on global projects and with international AI teams.
+- **Open Source & Portfolio:** Publish personal CV/AI projects here on GitHub.
+- **Knowledge Sharing:** Write technical articles and give tech talks on CV, VLMs, and LoRA.
+- **Applied Research:** Contribute to research that bridges state-of-the-art AI and real-world impact.
+- **Continuous Learning:** Keep exploring new architectures, tools, and techniques.
 
 ## Contact
 
@@ -61,4 +71,4 @@ Currently, I'm studying Transformers (Transformers) and LLMs (Large Language Mod
 
 ---
 
-Feel free to explore my repositories and projects. I'm currently building my portfolio with my professional experiences and knowledge. I am always open to new opportunities and collaborations. Let's connect and build something amazing together! 🚀
+I am always open to new opportunities and collaborations. Let's connect and build something amazing together! 🚀
